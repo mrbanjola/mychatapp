@@ -1,0 +1,56 @@
+#formContainer {
+
+    position: relative;
+    top: 150px;
+    box-shadow: 4px 4px 12px 12px;
+    padding: 16px;
+    background-color: aliceblue;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+
+}
+
+#body {
+
+    text-align: center;
+    background-color: rgb(51,51,67);
+    padding-top: 65px;
+    padding-bottom: 65px;
+    
+}
+
+#messageBar {
+
+
+    text-align: center;
+
+
+}
+
+#messageBar input {
+
+    width: 70%;
+}
+
+#topBar {
+
+    color: white;
+    text-align: center;
+
+}
+
+.message {
+
+    position: relative;
+    margin: 10px;
+    background-color: azure;
+    text-align: left;
+    box-shadow: 2px 3px 3px 4px black;
+
+
+}
+.timeStamp {
+
+    color: grey;
+
+}
