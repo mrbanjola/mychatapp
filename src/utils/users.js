@@ -54,20 +54,6 @@ const removeUser = (id) => {
 
 }
 
-addUser({
-
-    id: 22,
-    username: "Bertil",
-    room: "coolroom"
-})
-
-addUser({
-
-    id: 23,
-    username: "Rudolf",
-    room: "coolroom"
-})
-
 
 const getUser = (id) => {
 
